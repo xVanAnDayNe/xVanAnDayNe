@@ -52,8 +52,20 @@ Hello! I'm Van An, a passionate student at FPT University. I'm deeply committed 
 ### 🌐 Notable Projects
 
 1. **Student Management Application**
-   - Developed during FPT University coursework
-   - Technologies: SQL Server
+   - 🏫 Developed during FPT University coursework
+   - 💾 Database: SQL Server
+   - 🔍 Key Features:
+     * Student information management
+     * Course registration system
+     * Academic performance tracking
+   - 🛠️ Technologies Used:
+     * Backend: C#/.NET
+     * Database: Microsoft SQL Server
+     * Frontend: Windows Forms or ASP.NET
+   - 🎯 Project Goals:
+     * Streamline student record management
+     * Provide an efficient administrative tool
+     * Demonstrate database and application development skills
 
 2. **E-commerce Website**
    - Academic project showcasing web development skills
@@ -83,7 +95,7 @@ Hello! I'm Van An, a passionate student at FPT University. I'm deeply committed 
 
 <p align="center">
   <a href="mailto:vanan.fpt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.facebook.com/vanan.fpt"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.facebook.com/xVanAnDayNeee"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 <!-- Final Fireworks -->
