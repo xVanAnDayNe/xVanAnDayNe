@@ -1,70 +1,54 @@
-# 👋 Xin chào! I'm Văn An
+# Hi 👋, I'm Văn An
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=50&animation=fadeIn)
+🌈 Welcome to my GitHub profile!
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xVanAnDayNe&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+![Tech Stack Banner](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b6b5-4198-9ca9-7c209e7c5abb.gif)
 
-## 🌟 Giới Thiệu Về Tôi
+## About Me
 
-Xin chào! Tôi là Văn An, một lập trình viên trẻ đam mê công nghệ và sáng tạo. Tôi luôn mong muốn học hỏi và phát triển bản thân trong lĩnh vực công nghệ thông tin.
+I'm a passionate student at FPT University, focused on technology and coding:
 
-### 🚀 Hành Trình Của Tôi
+- 💻 Currently working on Web Development
+- 🌱 Learning Angular and C#
+- 🤝 Looking to collaborate on interesting Web Development projects
+- 🔍 Seeking Internship opportunities
+- 💬 Ask me about anything! I'm happy to help
+- 😄 Pronouns: He/Him/His
 
-- 💻 Hiện tại là sinh viên chuyên ngành Công Nghệ Thông Tin
-- 🌱 Đang không ngừng học hỏi và nâng cao kỹ năng lập trình
-- 🎯 Mục tiêu: Trở thành một lập trình viên chuyên nghiệp và sáng tạo
+## 🛠️ Technologies & Tools
 
-### 🔧 Kỹ Năng & Công Nghệ
+![Technologies](https://skillicons.dev/icons?i=html,css,js,typescript,react,angular,nodejs,python,git,github,vscode,figma,docker)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,html,css,git,vscode" />
-</p>
+## 🖥️ My Workspace
 
-### 📚 Lĩnh Vực Quan Tâm
+![Workspace](https://user-images.githubusercontent.com/74038190/212284115-f6b7b65c-a3d2-4b38-a412-4da4a7375004.gif)
 
-- Web Development
-- Mobile App Development
-- Machine Learning
-- Artificial Intelligence
-- Open Source Contributions
-
-### 🌐 Dự Án Nổi Bật
-
-1. **Ứng Dụng Quản Lý Sinh Viên**
-   - Xây dựng hệ thống quản lý thông tin sinh viên
-   - Sử dụng: Python, Django, SQLite
-
-2. **Trang Web Bán Hàng Điện Tử**
-   - Phát triển website thương mại điện tử
-   - Sử dụng: React, Node.js, MongoDB
-
-### 📊 Thành Tích GitHub
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xVanAnDayNe&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xVanAnDayNe&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xVanAnDayNe&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-### 🏆 Thành Tựu
+## 🌐 How to Reach Me
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xVanAnDayNe&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="mailto:vanan.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.facebook.com/vanan.profile">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vanan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-### 🌐 Kết Nối Với Tôi
+## 💡 Quote of the Moment
 
-<p align="center">
-  <a href="mailto:vanan.contact@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.facebook.com/vanan.profile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-</p>
+> "Coding is not just about writing code, it's about solving problems and creating solutions" 🚀
 
-### 🎨 Câu Nói Động Viên
-
-> "Học hỏi không ngừng, phát triển không giới hạn" 💻✨
-
-![Bottom Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
+![Profile Views](https://komarev.com/ghpvc/?username=xVanAnDayNe&color=brightgreen)
 
 ---
-⭐ Được tạo với ❤️ bởi Văn An
+⭐ Crafted with ❤️ by Văn An
