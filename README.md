@@ -7,10 +7,6 @@
   </a>
 </h1>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xVanAnDayNe&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
 <!-- Fireworks Animation -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-515b3b1f-0d33-4c29-a58d-a9d5a441a4b0.gif" width="100%"/>
