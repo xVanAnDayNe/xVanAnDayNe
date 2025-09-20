@@ -94,7 +94,7 @@ Hello! I'm Van An, a passionate student at FPT University. I'm deeply committed 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:vanan.fpt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:hoangvanan5978@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.facebook.com/xVanAnDayNeee"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
