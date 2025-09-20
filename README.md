@@ -1,8 +1,11 @@
 # 👋 Hello! I'm Van An
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=50&animation=fadeIn&desc=Explore%20My%20Coding%20Journey&descAlignY=70&descSize=20" />
-</div>
+<!-- Typing Effect Welcome Message -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&width=435&lines=Welcome+to+My+GitHub+Profile;Student+at+FPT+University;Passionate+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
+</h1>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xVanAnDayNe&style=flat-square&color=blue" alt="Profile Views"/>
@@ -15,13 +18,21 @@
 
 ## 🌟 About Me
 
-Hello! I'm Van An, a young programmer passionate about technology and creativity. I'm always eager to learn and develop myself in the field of information technology.
+Hello! I'm Van An, a passionate student at FPT University. I'm deeply committed to technology and continuous learning in the field of information technology.
 
-### 🚀 My Journey
+### 🎓 Academic Background
 
-- 💻 Currently a student majoring in Information Technology
-- 🌱 Continuously learning and improving programming skills
-- 🎯 Goal: Become a professional and creative developer
+- 🏫 Studying at FPT University
+- 📚 Major: Information Technology
+- 🌱 Passionate about cutting-edge technologies
+- 🏆 Committed to academic and professional excellence
+
+### 🚀 My Journey at FPT
+
+- 💻 Actively participating in university tech projects
+- 🤝 Engaging in collaborative learning environments
+- 🔬 Exploring innovative technological solutions
+- 🌍 Part of FPT's dynamic and innovative tech community
 
 ### 🔧 Skills & Technologies
 
@@ -45,11 +56,11 @@ Hello! I'm Van An, a young programmer passionate about technology and creativity
 ### 🌐 Notable Projects
 
 1. **Student Management Application**
-   - Developed a student information management system
+   - Developed during FPT University coursework
    - Technologies: Python, Django, SQLite
 
 2. **E-commerce Website**
-   - Developed an e-commerce website
+   - Academic project showcasing web development skills
    - Technologies: React, Node.js, MongoDB
 
 ### 📊 GitHub Achievements
@@ -75,8 +86,8 @@ Hello! I'm Van An, a young programmer passionate about technology and creativity
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:vanan.contact@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.facebook.com/vanan.profile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="mailto:vanan.fpt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.facebook.com/vanan.fpt"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 <!-- Final Fireworks -->
@@ -91,4 +102,4 @@ Hello! I'm Van An, a young programmer passionate about technology and creativity
 ![Bottom Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
 
 ---
-⭐ Created with ❤️ by Van An
+⭐ Created with ❤️ by Van An at FPT University
