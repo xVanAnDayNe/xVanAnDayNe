@@ -1,29 +1,47 @@
 # 👋 Xin chào! I'm [Your Name Here]
 
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=50&animation=fadeIn)
+
 ## 🌟 About Me
 
-Hey there! I'm a passionate developer who loves creating awesome things with code. Welcome to my GitHub profile!
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 
-### 🚀 Quick Intro
-- 💻 Coding is my superpower
-- 🌈 Always learning and growing
-- 🎯 Turning ideas into reality
+Hey there! I'm a passionate developer who loves creating awesome things with code. 🚀
 
-### 🛠️ Technologies I Love
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+### 🔧 Technologies & Tools
 
-### 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,git,docker,vscode" />
+</p>
+
+### 📊 My GitHub Journey
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
 
-### 🎨 Fun Fact
-> "Code is poetry in motion" - My personal motto 😄
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
+
+### 🎨 Fun Coding Quote
+
+> "Code is poetry in motion" - My personal motto 💻✨
+
+![Bottom Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
 
 ---
-⭐ From [Your Name](https://github.com/yourusername)
+⭐ Crafted with ❤️ by [Your Name](https://github.com/yourusername)
