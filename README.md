@@ -33,7 +33,7 @@ Hello! I'm Van An, a passionate student at FPT University. I'm deeply committed 
 ### 🔧 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,html,css,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,html,css,git,vscode" />
 </p>
 
 <!-- Animated Coding GIF -->
@@ -53,7 +53,7 @@ Hello! I'm Van An, a passionate student at FPT University. I'm deeply committed 
 
 1. **Student Management Application**
    - Developed during FPT University coursework
-   - Technologies: Python, Django, SQLite
+   - Technologies: SQL Server
 
 2. **E-commerce Website**
    - Academic project showcasing web development skills
@@ -98,4 +98,4 @@ Hello! I'm Van An, a passionate student at FPT University. I'm deeply committed 
 ![Bottom Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
 
 ---
-⭐ Created with ❤️ by Van An at FPT University
+⭐ Created with ❤️ by Van An 
